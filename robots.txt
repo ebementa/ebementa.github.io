@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ebementa.github.io/ebementa.ebementa
+Sitemap: https://ebementa.github.io/app/ebementa.ebementa
+Sitemap: https://ebementa.github.io/assets/ebementa.ebementa
+Sitemap: https://ebementa.github.io/css/ebementa.ebementa
+Sitemap: https://ebementa.github.io/includes/ebementa.ebementa
+Sitemap: https://ebementa.github.io/item/ebementa.ebementa
+Sitemap: https://ebementa.github.io/src/ebementa.ebementa
